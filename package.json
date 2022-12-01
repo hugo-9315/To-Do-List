@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hugo-9315/To-Do-List/issues"
   },
-  "homepage": "https://github.com/hugo-9315/To-Do-List#readme"
+  "homepage": "https://github.com/hugo-9315/To-Do-List#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }
