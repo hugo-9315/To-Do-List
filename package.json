@@ -1,0 +1,22 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "todolist",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo-9315/To-Do-List.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugo-9315/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/hugo-9315/To-Do-List#readme"
+}
